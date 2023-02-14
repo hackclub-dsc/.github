@@ -15,7 +15,7 @@ Partha Ghosh. Dhupguri Science Club is registered under the Government Of West B
 The club currently has over 500+ members. The majority of the members of the club are students.
 Members of this club have participated in many prestigious competitions and events like National Science Congress.
 Our club organizes educational seminars, competitions, quizzes, excursions & other awesome events. 
-You can check out the club's Facebook page [here]().
+You can check out the club's Facebook page [here](https://www.facebook.com/dhupguriscienceclub/).
 
 ---
 
