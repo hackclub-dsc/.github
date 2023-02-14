@@ -18,12 +18,9 @@ Our club organizes educational seminars, competitions, quizzes, excursions & oth
 You can check out the club's Facebook page [here]().
 
 ---
-<p>
+
 • 🌍 [Hack Club DSC Website](https://hackclub-dsc.vercel.app)
-• ⭐ [Star our Repositories](https://github.com/hackclub-dsc)
 • 🌈 [Join the Hack Club Slack](https//hackclub.com/slack)
-• 🗺️ [Hack Club Map](https://hackclub.com/map)
-• 🍃 [Check out Sprig](https://sprig.hackclub.dev)
-</p>
-  ---
+
+---
 The new website for Hack Club DSC is currently under development. If you would like to contribute or join the GitHub organization drop a DM to [@Nisarga](https://scrapbook.hackclub.com/ni5arga) on Slack.
