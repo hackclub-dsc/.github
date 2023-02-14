@@ -1,6 +1,6 @@
 # 👋 Welcome to Hack Club DSC
 
-![dsc](https://assets.hackclub.com/flag-standalone.svg)
+
 
 ###  DSC 🚀 Hack Club 
 
