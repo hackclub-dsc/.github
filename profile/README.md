@@ -6,7 +6,7 @@
 ###  DSC 🚀 Hack Club 
 
 Hack Club, Dhupguri Science Club is the first ever Hack Club of North Bengal. We are a bunch of computer, technology and science 
-enthusiasts. The Hack Club started it's journey in January 2023. [Nisarga Adhikary](https://github.com/nisarga-developer) is currently leading the club.  
+enthusiasts. The Hack Club started it's journey in January 2023. [Nisarga Adhikary](https://github.com/ni5arga) is currently leading the club.  
 We try to make the world a better place with the help of technology and also take initiatives to spread the light of technology among students. We also organize hackathons, workshops, quizzes and more!
 [Hack Club](https://hackclub.com/) is  a global network of teenage computer hackers, programmers, makers and coders. If you're a person who loves tech, you are welcome to join us!
 
@@ -25,4 +25,3 @@ You can check out the club's Facebook page [here](https://www.facebook.com/dhupg
 • 🌈 [Join the Hack Club Slack](https//hackclub.com/slack)
 
 ---
-The new website for Hack Club DSC is currently under development. If you would like to contribute or join the GitHub organization drop a DM to [@Nisarga](https://scrapbook.hackclub.com/ni5arga) on Slack.
