@@ -21,7 +21,7 @@ You can check out the club's Facebook page [here](https://www.facebook.com/dhupg
 
 ---
 
-• 🌍 [Hack Club DSC Website](https://hackclub-dsc.vercel.app)
+• 🌍 [Hack Club DSC Website](https://dsc.hackclub.com)
 • 🌈 [Join the Hack Club Slack](https//hackclub.com/slack)
 
 ---
